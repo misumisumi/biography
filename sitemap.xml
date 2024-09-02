@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://misumisumi.github.io/biography/project/e2e-nf/</loc>
+    <lastmod>2024-09-02T16:38:38+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://misumisumi.github.io/biography/tags/gcce/</loc>
+    <lastmod>2024-09-02T16:38:38+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://misumisumi.github.io/biography/project/</loc>
+    <lastmod>2024-09-02T16:38:38+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://misumisumi.github.io/biography/tags/</loc>
+    <lastmod>2024-09-02T16:38:38+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://misumisumi.github.io/biography/projects/</loc>
+    <lastmod>2024-05-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://misumisumi.github.io/biography/experience/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://misumisumi.github.io/biography/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://misumisumi.github.io/biography/publication_types/</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+</urlset>
