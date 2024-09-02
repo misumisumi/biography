@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Publication_types | As a Researcher</title>
-    <link>https://misumisumi.github.io/biography/publication_types/</link>
-      <atom:link href="https://misumisumi.github.io/biography/publication_types/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publication_types</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
-    <image>
-      <url>https://misumisumi.github.io/biography/media/icon_hue6c13ab44c9fe3505d82e41ff04c5262_3227493_512x512_fill_lanczos_center_3.png</url>
-      <title>Publication_types</title>
-      <link>https://misumisumi.github.io/biography/publication_types/</link>
-    </image>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Publication_types | As a Researcher</title><link>https://misumisumi.github.io/biography/publication_types/</link><atom:link href="https://misumisumi.github.io/biography/publication_types/index.xml" rel="self" type="application/rss+xml"/><description>Publication_types</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><image><url>https://misumisumi.github.io/biography/media/icon_hue6c13ab44c9fe3505d82e41ff04c5262_3227493_512x512_fill_lanczos_center_3.png</url><title>Publication_types</title><link>https://misumisumi.github.io/biography/publication_types/</link></image></channel></rss>
